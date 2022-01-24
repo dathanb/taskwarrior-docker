@@ -1,4 +1,4 @@
-DOCKER_TAG=lukd/taskwarrior
+DOCKER_TAG=taskserver
 
 .PHONY: build
 
